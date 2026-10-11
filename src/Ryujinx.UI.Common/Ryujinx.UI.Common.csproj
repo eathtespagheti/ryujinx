@@ -57,6 +57,7 @@
   <ItemGroup>
     <PackageReference Include="DiscordRichPresence" />
     <PackageReference Include="securifybv.ShellLink" />
+    <PackageReference Include="SixLabors.ImageSharp" />
   </ItemGroup>
 
   <ItemGroup>
