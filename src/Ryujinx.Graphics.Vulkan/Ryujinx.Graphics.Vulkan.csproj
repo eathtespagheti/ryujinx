@@ -50,6 +50,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="OpenTK.Core" />
     <PackageReference Include="OpenTK.Windowing.GraphicsLibraryFramework" />
     <PackageReference Include="shaderc.net" />
     <PackageReference Include="Silk.NET.Vulkan" />
